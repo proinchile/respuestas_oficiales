@@ -4,12 +4,18 @@ Plantilla de respuestas ante situaciones en la comunidad, sentirse libres de cop
 
 ## Caso 1 - Mal formato en oferta laboral
 
-> ¡Hola! Tenemos una pauta que debes seguir para publicar ofertas
+> ¡Hola! 
+>
+> Tenemos una pauta que debes seguir para publicar ofertas
 > laborales. Por favor, modifica tu publicación para que llene nuestra
 > pauta completa o será descartada en aproximadamente una hora por un
-> moderador. Presta atención a las notas al final del documento, ya que
+> moderador. 
+>
+> Presta atención a las notas al final del documento, ya que
 > hay restricciones que, de no ser seguidas, también significan la
-> eliminación de tu publicación. Saludos.
+> eliminación de tu publicación.
+> Saludos.
+>
 > www.programadores.cl/pauta-laboral
 
 ---
